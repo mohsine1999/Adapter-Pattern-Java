@@ -1,2 +1,2 @@
 # Adapter-Pattern-Java
-Adapter Pattern 
+Adapter Design Pattern 
