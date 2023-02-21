@@ -6,7 +6,7 @@ public class MainAdapter {
 
 
         xpay.setCreditCardNo("4789565884102365");
-        xpay.setCustomerName("Mohsine HAJJAR");
+        xpay.setCustomerName("Mosine HAJJAR");
         xpay.setCardExpMonth("09");
         xpay.setCardExpYear("25");
         xpay.setCardCVVNo((short) 235);
