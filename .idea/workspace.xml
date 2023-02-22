@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b56a5ec-0183-485c-a579-d373019d4faa" name="Changes" comment="Adapter Design Pattern Exemple II" />
+    <list default="true" id="5b56a5ec-0183-485c-a579-d373019d4faa" name="Changes" comment="Adapter Design Pattern Exemple III" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +17,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -60,6 +67,7 @@
       <updated>1676810145452</updated>
       <workItem from="1676810148205" duration="1713000" />
       <workItem from="1676931380599" duration="495000" />
+      <workItem from="1677015623341" duration="83000" />
     </task>
     <task id="LOCAL-00001" summary="Adapter Design Pattern Exemple">
       <created>1676811106394</created>
@@ -75,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676931419313</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adapter Design Pattern Exemple III">
+      <created>1677015666902</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677015666902</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +110,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adapter Design Pattern Exemple" />
     <MESSAGE value="Adapter Design Pattern Exemple II" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adapter Design Pattern Exemple II" />
+    <MESSAGE value="Adapter Design Pattern Exemple III" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adapter Design Pattern Exemple III" />
   </component>
 </project>
