@@ -1,7 +1,6 @@
 public class MainAdapter {
     public static void main(String[] args) {
 
-        // Object for Xpay
         Xpay xpay = new XpayImpl();
 
 
